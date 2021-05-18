@@ -1,0 +1,86 @@
+
+
+.waiting-for-buttons {
+   
+    text-align: center;
+    width: -webkit-max-content;
+    width: max-content;
+}
+.waiting-for-buttons .btn-style:last-child {
+    margin-right: 0;
+}
+.waiting-for-buttons .btn-style {
+  font-size: xx-large;
+    font-family: "Roboto";
+    font-weight: 500;
+    letter-spacing: .1rem;
+    color: #50b7e8;
+    background-color: #fff;
+    border: 1px solid #156083;
+    
+   
+    margin-right: 2rem;
+    border-radius: .6rem;
+}
+button, input, select, textarea {
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+}
+
+.waiting-for-description {
+    font-size: 1rem;
+    line-height: 1.5;
+    letter-spacing: .8px;
+    margin-top: 2rem;
+    margin-bottom: 3rem;
+}
+waiting-for-description, .waiting-for-title {
+    font-family: "National-Book";
+    text-align: center;
+    color: #121212;
+}
+.waiting-for-buttons {
+    margin: 2rem auto;
+    text-align: center;
+    width: -webkit-max-content;
+    width: max-content;
+    width: -moz-max-content;
+}
+button, html input[type=button], input[type=reset], input[type=submit] {
+    -webkit-appearance: button;
+    cursor: pointer;
+}
+button, select {
+    text-transform: none;
+}
+button {
+    overflow: visible;
+}
+button, input, optgroup, select, textarea {
+    margin: 0;
+    font: inherit;
+    color: inherit;}
+    .h3, h3 {
+        font-size: 24px;
+    }
+    .h1, .h2, .h3, h1, h2, h3 {
+        margin-top: 20px;
+        margin-bottom: 10px;
+    }
+    .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+        font-family: inherit;
+        font-weight: 500;
+        line-height: 1.1;
+        color: inherit;
+    }
+    h3 {
+        display: block;
+        font-size: 1.17em;
+        margin-block-start: 1em;
+        margin-block-end: 1em;
+        margin-inline-start: 0px;
+        margin-inline-end: 0px;
+        font-weight: bold;
+    }
+  
